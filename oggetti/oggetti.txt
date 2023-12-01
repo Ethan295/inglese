@@ -13,15 +13,11 @@ cotone
 seta
 rotondo
 puntini
-pietra
-plastica
 mattone
-pelliccia
 pelle
 lanoso
 all'antica
 semplice
-cerchio
 animali
 porcellana
 zebra
@@ -31,7 +27,6 @@ lana
 righe
 pois
 curvo
-punta
 plastica
 gomma
 acciaio

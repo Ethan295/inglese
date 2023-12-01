@@ -38,8 +38,8 @@ def leggi_da_file(nome_file):
 
 
 def main():
-    parole_inglese = leggi_da_file("C:\\Users\\eindemini\\OneDrive - edu.ti.ch\\Desktop\\Scuola\\Terzo anno\\Inglese\\prog\\pastParticiple\\verbs.txt")
-    parole_italiano = leggi_da_file("C:\\Users\\eindemini\\OneDrive - edu.ti.ch\\Desktop\\Scuola\\Terzo anno\\Inglese\\prog\\pastParticiple\\verbi.txt")
+    parole_inglese = leggi_da_file("C:\\Users\\eindemini\\OneDrive - edu.ti.ch\\Desktop\\Scuola\\Terzo anno\\Inglese\\prog\\inglese\\pastParticiple\\verbs.txt")
+    parole_italiano = leggi_da_file("C:\\Users\\eindemini\\OneDrive - edu.ti.ch\\Desktop\\Scuola\\Terzo anno\\Inglese\\prog\\inglese\\pastParticiple\\verbi.txt")
 
     parole = Controlli(parole_italiano, parole_inglese)
 
